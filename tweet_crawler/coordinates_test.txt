@@ -1,0 +1,7 @@
+boston
+stream.filter(locations=[-71.192710, 42.234334, -70.926734, 42.394220])
+1790
+
+sanfrancisco_california
+stream.filter(locations=[ -122.532067, 37.713074,  -122.351590, 37.821454])
+346

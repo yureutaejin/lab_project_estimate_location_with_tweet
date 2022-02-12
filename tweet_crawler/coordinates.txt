@@ -1,0 +1,80 @@
+Jacksonville_florida
+stream.filter(locations=[-82.081064, 30.121330, -81.309562, 30.557877])
+1086
+
+sanfrancisco_california
+stream.filter(locations=[ -122.532067, 37.713074,  -122.351590, 37.821454])
+346
+
+columbus_ohio
+stream.filter(locations=[-83.209710, 39.829385, -82.799171, 40.149471])
+352
+
+Fort Worth
+stream.filter(locations=[-97.541960, 32.567339, -97.058376, 33.036005])
+1016
+
+Indianapolis
+stream.filter(locations=[-86.339166, 39.644215, -85.931594, 40.077050])
+433
+
+Charlotte
+stream.filter(locations=[-81.012652, 35.037068, -80.689552, 35.380093])
+250
+
+Seattle
+stream.filter(locations=[-122.432587, 47.495547, -122.236147, 47.736533])
+1091
+
+Denver
+stream.filter(locations=[-105.098014, 39.633718, -104.625815, 39.907805])
+1395
+
+Washington, D.C.
+stream.filter(locations=[-77.134110, 38.805920, -76.910471, 38.993559])
+972
+
+Boston
+stream.filter(locations=[-71.192710, 42.234334, -70.926734, 42.394220])
+1790
+
+El Paso
+stream.filter(locations=[-106.646897,31.628990, -106.228933, 32.003383])
+#269 
+
+Detroit
+stream.filter(locations=[-83.290936, 42.272651, -82.912524, 42.445147])
+#984
+
+Nashville
+stream.filter(locations=[-87.065413, 35.977315, -86.524416, 36.399922])
+#598
+
+Memphis
+stream.filter(locations=[-90.294630, 34.998747, -89.636760, 35.253467])
+#696
+
+Portland
+stream.filter(locations=[-122.841392, 45.447513, -122.480800, 45.652703])
+#559
+
+Oklahoma City
+stream.filter(locations=[-97.838652, 35.298928, -97.132042, 35.664592])
+#235
+
+Las Vegas
+stream.filter(locations=[-115.429053, 36.144739, -115.063510, 36.382620])
+#1723
+
+Louisville
+stream.filter(locations=[-85.952530, 38.021893, -85.423282, 38.378919])
+#262
+
+Baltimore
+stream.filter(locations=[-76.710474, 39.197268, -76.532634, 39.372248])
+#243
+
+Milwaukee
+stream.filter(locations=[-88.066296, 42.922555, -87.875351, 43.194132])
+#335
+
